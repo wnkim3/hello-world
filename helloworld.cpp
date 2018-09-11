@@ -5,4 +5,5 @@ using namespace std;
 int main()
 {
 	cout << "Hello world!!\n" << endl;
+	printf("Wow !!\n");
 }
